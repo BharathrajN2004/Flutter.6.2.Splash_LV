@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "640314715707",
+    "firebase_url": "https://ciba-pond-quality-monitoring-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ciba-pond-quality-monitoring",
+    "storage_bucket": "ciba-pond-quality-monitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640314715707:android:b77b4daa213f942c3db61e",
+        "android_client_info": {
+          "package_name": "com.splash.flare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640314715707-m72fjfivee7ol05f1hre3pvjl6a9ml13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZaiWke29KHi7iXrx0JVS3gP8MnZpOYTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640314715707-fm90lcttpm8ooa0e7lc5ej5gm4qatrvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
